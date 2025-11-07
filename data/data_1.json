@@ -1,0 +1,250 @@
+[
+    {
+        "kanji": "一",
+        "on": ["イチ", "イツ"],
+        "kun": ["ひと", "ひと.つ"],
+        "meaning": ["un"],
+        "level": "N5",
+        "score": 0
+    },
+    {
+        "kanji": "七",
+        "on": ["シチ"],
+        "kun": ["なな", "なな.つ", "なの"],
+        "meaning": ["sept"],
+        "level": "N5",
+        "score": 0
+    },
+    {
+        "kanji": "万",
+        "on": ["マン", "バン"],
+        "kun": ["よろず"],
+        "meaning": ["dix-mille"],
+        "level": "N5",
+        "score": 0
+    },
+    {
+        "kanji": "三",
+        "on": ["サン", "ゾウ"],
+        "kun": ["み", "み.つ", "みっ.つ"],
+        "meaning": ["trois"],
+        "level": "N5",
+        "score": 0
+    },
+    {
+        "kanji": "上",
+        "on": ["ジョウ", "ショウ", "シャン"],
+        "kun": ["うえ", "あ.げる", "のぼ.る"],
+        "meaning": ["au-dessus", "haut", "monter", "donner"],
+        "level": "N5",
+        "score": 0
+    },
+    {
+        "kanji": "下",
+        "on": ["カ", "ゲ"],
+        "kun": ["した", "さ.げる", "くだ.る"],
+        "meaning": ["au-dessous", "descendre", "bas", "donner", "inférieur"],
+        "level": "N5",
+        "score": 0
+    },
+    {
+        "kanji": "不",
+        "on": ["フ", "ブ"],
+        "kun": [],
+        "meaning": ["préfixe de négation", "non"],
+        "level": "N4",
+        "score": 0
+    },
+    {
+        "kanji": "世",
+        "on": ["セイ", "セ"],
+        "kun": ["よ", "さんじゅう"],
+        "meaning": ["monde", "époque", "génération"],
+        "level": "N4",
+        "score": 0
+    },
+    {
+        "kanji": "中",
+        "on": ["チュウ"],
+        "kun": ["なか", "うち", "あた.る"],
+        "meaning": ["dans", "dedans", "à l'intérieur", "milieu", "centre", "moyenne"],
+        "level": "N5",
+        "score": 0
+    },
+    {
+        "kanji": "主",
+        "on": ["シュ", "ス"],
+        "kun": ["ぬし", "おも"],
+        "meaning": ["seigneur", "maître", "mari"],
+        "level": "N4",
+        "score": 0
+    },
+    {
+        "kanji": "乗",
+        "on": ["ジョウ"],
+        "kun": ["の.る"],
+        "meaning": ["monter (dans un véhicule)", "embarquer"],
+        "level": "N4",
+        "score": 0
+    },
+    {
+        "kanji": "九",
+        "on": ["キュウ", "ク"],
+        "kun": ["ここの", "ここの.つ"],
+        "meaning": ["neuf"],
+        "level": "N5",
+        "score": 0
+    },
+    {
+        "kanji": "事",
+        "on": ["ジ"],
+        "kun": ["こと"],
+        "meaning": ["fait", "chose abstraite", "affaire"],
+        "level": "N4",
+        "score": 0
+    },
+    {
+        "kanji": "二",
+        "on": ["ニ", "ジ"],
+        "kun": ["ふた", "ふた.つ", "ふたた.び"],
+        "meaning": ["deux"],
+        "level": "N5",
+        "score": 0
+    },
+    {
+        "kanji": "五",
+        "on": ["ゴ"],
+        "kun": ["いつ", "いつ.つ"],
+        "meaning": ["cinq"],
+        "level": "N5",
+        "score": 0
+    },
+    {
+        "kanji": "京",
+        "on": ["キョウ", "ケイ", "キン"],
+        "kun": ["みやこ"],
+        "meaning": ["capitale", "10^16"],
+        "level": "N4",
+        "score": 0
+    },
+    {
+        "kanji": "人",
+        "on": ["ジン", "ニン"],
+        "kun": ["ひと"],
+        "meaning": ["être humain", "personne"],
+        "level": "N5",
+        "score": 0
+    },
+    {
+        "kanji": "今",
+        "on": ["コン"],
+        "kun": ["いま"],
+        "meaning": ["maintenant"],
+        "level": "N5",
+        "score": 0
+    },
+    {
+        "kanji": "仕",
+        "on": ["シ"],
+        "kun": ["つか.える"],
+        "meaning": ["servir", "faire"],
+        "level": "N4",
+        "score": 0
+    },
+    {
+        "kanji": "代",
+        "on": ["ダイ", "タイ"],
+        "kun": ["かわ.り"],
+        "meaning": ["génération", "période", "substitution", "prix"],
+        "level": "N4",
+        "score": 0
+    },
+    {
+        "kanji": "以",
+        "on": ["イ"],
+        "kun": ["もっ.て"],
+        "meaning": ["par le moyen de", "en vue de", "comparé à"],
+        "level": "N4",
+        "score": 0
+    },
+    {
+        "kanji": "休",
+        "on": ["キュウ"],
+        "kun": ["やす.む", "やす.める"],
+        "meaning": ["se reposer", "repos"],
+        "level": "N5",
+        "score": 0
+    },
+    {
+        "kanji": "会",
+        "on": ["カイ"],
+        "kun": ["あ.う"],
+        "meaning": ["réunion", "rencontre", "parti"],
+        "level": "N5",
+        "score": 0
+    },
+    {
+        "kanji": "低",
+        "on": ["テイ"],
+        "kun": ["ひく.い", "ひく.める"],
+        "meaning": ["bas", "abaisser"],
+        "level": "N4",
+        "score": 0
+    },
+    {
+        "kanji": "住",
+        "on": ["ヂュウ"],
+        "kun": ["す.む"],
+        "meaning": ["résider", "habiter"],
+        "level": "N4",
+        "score": 0
+    },
+    {
+        "kanji": "体",
+        "on": ["タイ"],
+        "kun": ["からだ"],
+        "meaning": ["corps"],
+        "level": "N4",
+        "score": 0
+    },
+    {
+        "kanji": "何",
+        "on": ["カ"],
+        "kun": ["なに", "なん"],
+        "meaning": ["quoi", "que"],
+        "level": "N5",
+        "score": 0
+    },
+    {
+        "kanji": "作",
+        "on": ["サク", "サ"],
+        "kun": ["つく.る"],
+        "meaning": ["fabriquer", "produire", "réaliser"],
+        "level": "N4",
+        "score": 0
+    },
+    {
+        "kanji": "使",
+        "on": ["シ"],
+        "kun": ["つか.う"],
+        "meaning": ["utiliser"],
+        "level": "N4",
+        "score": 0
+    },
+    {
+        "kanji": "便",
+        "on": ["ベン", "ビン"],
+        "kun": ["たよ.り"],
+        "meaning": ["commodité", "lettre", "courrier"],
+        "level": "N4",
+        "score": 0
+    },
+    {
+        "kanji": "借",
+        "on": ["シャク"],
+        "kun": ["か.りる"],
+        "meaning": ["emprunter", "louer"],
+        "level": "N4",
+        "score": 0
+    }
+]
